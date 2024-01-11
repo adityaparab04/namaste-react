@@ -33,6 +33,7 @@
   - Different dev and prod bundles
   - for production build use npx parcel build "entry point name" make sure to remove package.json main entry point,
   - dist fodler is created to generate a development build and puts all our dev files in it
+  - browserslist is a npm package which helps to run your webapp on different versions of the browsers.
 
 ## References
 
