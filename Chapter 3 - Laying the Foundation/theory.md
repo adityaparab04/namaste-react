@@ -30,6 +30,7 @@
   - Component Composition is a child component inside a parent component.
   - Other types of functions are also allowed but better practise is to write arrow functions for creation Functional Components in react.
   - Using parenthesis you can write javascript code in JSX
+  - JSX takes care of injection attacks. Random api data runs a security check on it.
 
 ## References
 
